@@ -1,2 +1,4 @@
-
+.vscode
 .phpintel
+*.exe
+.DS_Store
